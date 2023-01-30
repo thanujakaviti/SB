@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Book>
+	<bid>12345</bid>
+	<bname>XML</bname>
+	<bprice>2000.0</bprice>
+</Book>
